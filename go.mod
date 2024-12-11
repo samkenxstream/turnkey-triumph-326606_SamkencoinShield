@@ -22,7 +22,6 @@ require (
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang/groupcache v0.0.0-20190129154638-5b532d6fd5ef // indirect
 	github.com/google/btree v1.0.0 // indirect
-	github.com/google/go-cmp v0.5.9 // indirect
 	github.com/google/go-github v0.0.0-20150605201353-af17a5fa8537
 	github.com/google/go-querystring v1.1.0 // indirect
 	github.com/google/uuid v1.1.2-0.20190416172445-c2e93f3ae59f // indirect
@@ -79,10 +78,8 @@ require (
 	go.uber.org/atomic v1.4.1-0.20190731194737-ef0d20d85b01 // indirect
 	go.uber.org/multierr v1.1.1-0.20190429210458-bd075f90b08f // indirect
 	go.uber.org/zap v1.10.1-0.20190709142728-9a9fa7d4b5f0 // indirect
-	golang.org/x/crypto v0.0.0-20220926161630-eccd6366d1be
-	golang.org/x/net v0.0.0-20211209124913-491a49abca63 // indirect
+	golang.org/x/crypto v0.31.0
 	golang.org/x/oauth2 v0.0.0-20190604053449-0f29369cfe45
-	golang.org/x/term v0.0.0-20201210144234-2321bbc49cbf // indirect
 	golang.org/x/time v0.0.0-20200630173020-3af7569d3a1e // indirect
 	google.golang.org/api v0.9.0
 	google.golang.org/appengine v1.6.7 // indirect
